@@ -2253,6 +2253,15 @@ body {
 .cid-rd5ZAQiFkM .card {
   padding-bottom: 1.5rem;
 }
+.cid-rdgRD2vVRm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rdgRD2vVRm .mbr-text,
+.cid-rdgRD2vVRm blockquote {
+  color: #767676;
+}
 .cid-rd61lBdyiU {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2534,15 +2543,6 @@ body {
 }
 .cid-rd65fRVyIi .content-slider-wrap {
   width: 60%;
-}
-.cid-rdgRD2vVRm {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rdgRD2vVRm .mbr-text,
-.cid-rdgRD2vVRm blockquote {
-  color: #767676;
 }
 .cid-rd5telbWru .navbar {
   padding: .5rem 0;
