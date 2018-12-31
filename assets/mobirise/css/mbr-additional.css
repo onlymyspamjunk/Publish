@@ -3461,6 +3461,53 @@ body {
 .cid-rd5telbWru .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rdKygbv11M {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-2-1920x1357.jpg");
+}
+.cid-rdKGbUqHmZ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #cccccc;
+  background: linear-gradient(45deg, #cccccc, #000000);
+}
+@media (min-width: 992px) {
+  .cid-rdKGbUqHmZ .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rdKGbUqHmZ .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rdKGbUqHmZ .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rdKHjArWxm {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #cccccc;
+  background: linear-gradient(45deg, #cccccc, #000000);
+}
+@media (min-width: 992px) {
+  .cid-rdKHjArWxm .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rdKHjArWxm .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rdKHjArWxm .mbr-text {
+    text-align: center;
+  }
+}
 .cid-rdcfwTOM2m {
   padding-top: 120px;
   padding-bottom: 45px;
