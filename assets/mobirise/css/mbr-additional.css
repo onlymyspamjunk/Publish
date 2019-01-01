@@ -2270,6 +2270,24 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/20181108-73536-2000x1500.jpg");
 }
+.cid-rdShe1rm3g {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rdShe1rm3g .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rdShe1rm3g .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rdShe1rm3g .mbr-text {
+  color: #767676;
+}
 .cid-rdGopwrCRf {
   padding-top: 0px;
   padding-bottom: 0px;
