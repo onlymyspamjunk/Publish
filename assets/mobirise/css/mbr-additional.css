@@ -2286,7 +2286,48 @@ body {
   }
 }
 .cid-rdShe1rm3g .mbr-text {
-  color: #767676;
+  color: #232323;
+}
+.cid-rdSsBNIEth {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rdSsBNIEth .mbr-section-subtitle {
+  color: #232323;
+  text-align: center;
+}
+.cid-rdSsBNIEth .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rdSsBNIEth .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rdSsBNIEth .team-item .item-image img {
+  width: 100%;
+}
+.cid-rdSsBNIEth .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rdSsBNIEth .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rdSsBNIEth .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rdSsBNIEth .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rdSsBNIEth .team-item .item-caption {
+  background: #efefef;
 }
 .cid-rdGopwrCRf {
   padding-top: 0px;
