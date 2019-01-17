@@ -38,7 +38,9 @@
     "siteFonts": [],
     "uniqCompNum": 87,
     "versionPublish": "4.8.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///G:/Mobirise/Publish"
   },
   "pages": {
     "index.html": {
